@@ -14,5 +14,3 @@ This project is a face recognition system developed in Google Colab using Python
 - **OpenCV**: For image processing and webcam integration.
 - **face_recognition**: For face detection and recognition.
 - **Google Colab**: Cloud-based development environment.
-
-## Directory Structure
